@@ -1,1 +1,1 @@
-print('Task Tracker Started')
+print("UI module loaded")
